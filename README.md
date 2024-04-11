@@ -63,7 +63,3 @@ The Library Management System is a web application designed to streamline librar
 - Search for available books and borrow them from the library.
 - **Returning Books**:
 - Return borrowed books to the library and calculate fines for late returns.
-
-## Contributing
-
-Contributions are welcome! Please feel free to fork the repository, make changes, and submit pull requests.
