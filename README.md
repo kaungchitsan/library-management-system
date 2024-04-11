@@ -43,7 +43,7 @@ The Library Management System is a web application designed to streamline librar
 
 5. **Run Migrations**:
 ```
-  php artisan migrate
+  php artisan migrate --seed
 ```
 6. **Install Passport for API authentication**
 ```php artisan passport:install```
